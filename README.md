@@ -5,6 +5,13 @@ Use vagrant to setup centos 7 box for building opencontrail.
 The initial version simply follows the guidelines found in the quick start guide on
 http://juniper.github.io/contrail-vnc/README.html
 
+# WARNING: This repo is old and no longer maintained!!! Use with caution.
+
+I have not touched this repo in a long time and have no plans to revisit that. Please take
+that into consideration if you decide to use it.
+
+# WARNING: This repo is old and no longer maintained!!! Use with caution.
+
 How to use it:
 
 Clone this git repository:
